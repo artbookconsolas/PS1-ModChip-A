@@ -73,7 +73,7 @@ A continuación se detallan los diagramas de instalación para los diferentes mo
 
 Crédito a [fatcat.co](https://www.fatcat.co.nz/psx/install/102/ONEchip8.html) para la instalación de OneChip en las PM-41 PAL.
 
-Creditos a [Consoles Unleashed](https://www.consolesunleashed.com/guides/sony-playstation-stealth-2-8a-modchip-install-guide/?v=7885444af42e) para la instalacion de Stealth 2.8a en las PU-8.
+Creditos a [Consoles Unleashed](https://www.consolesunleashed.com/guides/sony-playstation-stealth-2-8a-modchip-install-guide/?v=7885444af42e) para la instalación de Stealth 2.8a en las PU-8.
 
 Para mantener este documento organizado y no convertirlo en una galería de imágenes interminable, he colocado todos los diagramas de soldadura separados por código de chip (MM3, Mayumi V4, OneChip y Stealth 2.8a).
 
